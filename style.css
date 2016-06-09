@@ -1,0 +1,33 @@
+#wrapper {
+    margin: auto;
+    width: 80%;
+
+
+
+}
+
+#todolist{
+    border: 3px solid #e094b6;
+    height: 150px;
+
+}
+
+#done{
+    border: 3px solid #e094b6;
+    height: 150px;
+
+}
+
+.btn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 19px;
+    background:  #e094b6;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
